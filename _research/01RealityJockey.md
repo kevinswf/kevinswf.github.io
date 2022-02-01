@@ -2,7 +2,7 @@
 title: "Reality Jockey: Lifting the Barrier between Alternate Realities through Audio and Haptic Feedback"
 collection: research
 permalink: /research/RealityJockey
-excerpt: "<img align='left' src='/images/realityjockey.png'>Reality Jockey uses audio-haptic cross-modal illusions to create the experience of a past event happening in live.<br> Published at CHI 2013."
+excerpt: "<img align='left' style='margin-right:20px' src='/images/realityjockey.png'>Reality Jockey uses audio-haptic cross-modal illusions to create the experience of a past event happening in live.<br> Published at CHI 2013."
 date: 2013-04-27
 venue: "CHI 2013"
 paperurl:
