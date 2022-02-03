@@ -2,7 +2,7 @@
 title: "Cuddly: Enchant Your Soft Objects with a Mobile Phone"
 collection: publications
 permalink: /publication/Cuddly
-excerpt: "<img align='left' style='margin-right:20px' src='/images/cuddly.jpg'> Cuddly turns any soft objects into interactive toys by capturing the lighting changes sensed by a mobile device.<br> Published at ACE 2013 & SIGGRAPH Asia E-tech 2013. <br>"
+excerpt: "<img align='left' style='margin-right:20px' src='/images/cuddly.jpg'> Cuddly turns any soft objects into interactive toys by capturing the lighting changes sensed by a mobile device.<br> Published at ACE 2013 & SIGGRAPH Asia E-tech 2013."
 date: 2013-04-27
 venue: "ACE 2013"
 paperurl:
