@@ -2,7 +2,7 @@
 title: "Electrosmog Visualization through Augmented Blurry Vision"
 collection: publications
 permalink: /publication/Electrosmog
-excerpt: "In this project, we showcase how AR can be used to heighten our senses of the digital influences. <br> <img src='/images/electrosmog.jpg'>"
+excerpt: "<img align='left' width='250' style='margin-right:20px' src='/images/electrosmog.jpg'>In this project, we showcase how AR can be used to heighten our senses of the digital influences.<br> Published at AH 2016 Demo."
 date: 2013-04-27
 venue: "SIGGRAPH'14 Poster"
 paperurl:

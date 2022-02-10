@@ -2,7 +2,7 @@
 title: "AnyOrbit: Fluid 6DOF Spatial Navigation of Virtual Environments using Orbital Motion"
 collection: publications
 permalink: /publication/AnyOrbit
-excerpt: "AnyOrbit is a 3D navigation technique using only the head motion. <br><img src='/images/anyorbit.png'>"
+excerpt: "<img align='left' width='250' style='margin-right:20px' src='/images/anyorbit.png'>AnyOrbit is a 3D navigation technique using only the head motion.<br> Published at SUI 2016 Poster."
 date: 2013-04-27
 venue: "SIGGRAPH'14 Poster"
 paperurl:
