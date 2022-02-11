@@ -2,7 +2,7 @@
 title: "HPUI: Hand Proximate User Interfaces for One-Handed Interactions on Head Mounted Displays"
 collection: publications
 permalink: /publication/HPUI
-excerpt: "In HPUI, we explore virtual interfaces situated near the proximity of our hand, and enable one-handed interactions. Published in TVCG 2021. <br> <img src='/images/hpui.png'>"
+excerpt: "img align='left' width='250' style='margin-right:20px' src='/images/hpui.png'>In HPUI, we explore virtual interfaces situated near the proximity of our hand, and enable one-handed interactions.<br> Published at TVCG 2021."
 date: 2013-04-27
 venue: "AH 2014"
 paperurl:

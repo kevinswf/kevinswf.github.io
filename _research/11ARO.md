@@ -2,7 +2,7 @@
 title: "ARO: Exploring the Design of Smart-Ring Interactions for Encumbered Hands"
 collection: publications
 permalink: /publication/ARO
-excerpt: "Fingertip computing has the key advantages of being always available and enable interaction even when hands are encumbered. ARO is a prototype ring that explores facilitating such interactions. Published in MobileHCI 2021. <br> <img src='/images/aro.png'>"
+excerpt: "img align='left' width='250' style='margin-right:20px' src='/images/aro.png'>Fingertip computing has the key advantages of being always available and enable interaction even when hands are encumbered. ARO is a prototype ring that explores facilitating such interactions.<br> Published at MobileHCI 2021."
 date: 2013-04-27
 venue: "AH 2014"
 paperurl:

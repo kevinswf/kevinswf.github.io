@@ -2,7 +2,7 @@
 title: "Tent Mode Interactions: Exploring Collocated Multi-User Interaction on a Foldable Device"
 collection: publications
 permalink: /publication/TentMode
-excerpt: "We explored the design space of interaction of a foldable device, and implemented using paper boards and projection AR. <img src='/images/tentmode.png'>"
+excerpt: "img align='left' width='250' style='margin-right:20px' src='/images/tentmode.png'>We explored the design space of interaction of a foldable device, and implemented using paper boards and projection AR.<br> Published at MobileHCI 2020."
 date: 2013-04-27
 venue: "AH 2014"
 paperurl:

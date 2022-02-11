@@ -2,7 +2,7 @@
 title: "Multi-Embodiment of Digital Humans in Virtual Reality for Assisting Human-Centered Ergonomics Design"
 collection: publications
 permalink: /publication/MultiEmbodiment
-excerpt: "In this project, we augment the human body image perception by superimposing multiple avatars to assist ergonomics design. <img src='/images/multiembodiment.png'>"
+excerpt: "img align='left' width='250' style='margin-right:20px' src='/images/multiembodiment.png'>In this project, we augment the human body image perception by superimposing multiple avatars to assist ergonomics design.<br> Published at Springer Journal of Augmented Human Research 2017."
 date: 2013-04-27
 venue: "AH 2014"
 paperurl:
