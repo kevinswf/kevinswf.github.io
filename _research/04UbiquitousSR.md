@@ -2,7 +2,7 @@
 title: "Ubiquitous Substitutional Reality: Re-experiencing the Past in Immersion"
 collection: publications
 permalink: /publication/UbiquitousSR
-excerpt: "<img align='left' width='250' style='margin-right:20px' src='/images/ubiquitoussr.jpg'>With video see-through HMD, binaural audio, and implicit haptics, Ubiquitous SR blurs the boundary between past and present.<br> Published at SIGGRAPH 2014 Poster."
+excerpt: "<img align='left' style='margin-right:20px' src='/images/ubiquitoussr.jpg'>With video see-through HMD, binaural audio, and implicit haptics, Ubiquitous SR blurs the boundary between past and present.<br> Published at SIGGRAPH 2014 Poster."
 date: 2013-04-27
 venue: "SIGGRAPH'14 Poster"
 paperurl:
