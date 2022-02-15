@@ -2,7 +2,7 @@
 title: "SpiderVision: Extending the Human Field of View for Augmented Awareness"
 collection: publications
 permalink: /publication/SpiderVision
-excerpt: "<img align='left' width='250' style='margin-right:20px' src='/images/spidervision.jpg'> SpiderVision augments our human capabilities by giving us a third eye to the back.<br> Published at AH 2014."
+excerpt: "<img align='left' style='margin-right:20px' src='/images/spidervision.jpg'> SpiderVision augments our human capabilities by giving us a third eye to the back.<br> Published at AH 2014."
 date: 2013-04-27
 venue: "AH 2014"
 paperurl:
