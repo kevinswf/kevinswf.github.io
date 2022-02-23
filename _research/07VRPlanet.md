@@ -2,7 +2,7 @@
 title: "VR Planet: Interface for Meta-View and Feet Interaction of VR Contents"
 collection: publications
 permalink: /publication/VRPlanet
-excerpt: "<img align='left' width='250' style='margin-right:20px' src='/images/vrplanet.png'>VR planet is a novel XR interface located at one's feet, and freeing our hands by using feet interaction.<br> Published at SIGGRAPH 2016 VR Village."
+excerpt: "<img align='left' style='margin-right:20px' src='/images/vrplanet.png'>VR planet is a novel XR interface located at one's feet, and freeing our hands by using feet interaction.<br> Published at SIGGRAPH 2016 VR Village."
 date: 2013-04-27
 venue: "AH 2014"
 paperurl:
